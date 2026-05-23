@@ -1,6 +1,10 @@
-
+import ComingSoon from "../component/ComingSoon"
 function Analytics(){
-  <H1>Coming Soon!</H1>
+  return(
+  <>
+    <ComingSoon />
+  </>
+  )
 }
 
 export default Analytics

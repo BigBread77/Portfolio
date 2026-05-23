@@ -1,6 +1,11 @@
+import ComingSoon from "../component/ComingSoon"
 
 function MemoryGame(){
-  <H1>Coming Soon!</H1>
+  return(
+    <>
+      <ComingSoon />
+    </>
+  )
 }
 
 export default MemoryGame
