@@ -1,7 +1,7 @@
 
 
 .project-column{
-  max-width: 500px;
+  max-width: 450px;
   display: flex;
   flex-direction: column;
   gap: 50px;
@@ -10,8 +10,13 @@
 }
 
 .project-label{
+  margin-left: 10px;
   margin-top: 50px;
   margin-bottom: 25px;
   color: white;
-  font-size: 10px;
+  font-size: 11px;
+}
+
+.project-bottom{
+  margin-bottom: 0px;
 }

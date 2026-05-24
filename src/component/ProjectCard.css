@@ -1,5 +1,5 @@
 .container{
-  height: 250px;
+  height: 225px;
   border-radius: 15px;
   position: relative;
   overflow: hidden;
@@ -14,7 +14,7 @@
 .text{
   position: absolute;
   color: white;
-  top: 4px;
+  top: 2px;
   left: 12px;
   font-weight: bold;
   

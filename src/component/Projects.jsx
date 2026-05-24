@@ -15,9 +15,9 @@ function Projects(){
         <ProjectCard name="Memory Game" img={memoryImg} path = "/memorygame" />
         <ProjectCard name="Ecommerce" img={ecommerceImg} path = "/ecommerce" />
         <ProjectCard name="Analytics" img={analyticsImg} path= "/analytics"/>
-
-
+        <div />
       </div>
+
     </div>
   )
 }
