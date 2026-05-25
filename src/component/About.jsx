@@ -7,7 +7,7 @@ function About(){
             <div className='about-content'>
                 <img src={aboutPhoto} className='about-photo'/>
                 <div className='about-text'>
-                    <p>Hi, I'm Patrick, a third year student studying a bachelor's of Commerce with a minor in Computer Science at the University of Ottawa.</p>
+                    <p>Hi, I'm Patrick, a third year student studying a Bachelor's of Commerce and minoring in Computer Science at the University of Ottawa.</p>
                 </div>
             </div>
         </section>
