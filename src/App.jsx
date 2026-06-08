@@ -1,5 +1,4 @@
 import './App.css'
-import NavBar from './component/Navbar'
 import { Routes, Route } from "react-router"
 import HomePage from './pages/HomePage'
 import TravelAgency from './pages/TravelAgencyPage'
