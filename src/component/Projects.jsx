@@ -11,7 +11,7 @@ function Projects(){
     <div className="project-container">
       <h4 className="project-label">PROJECTS:</h4>
       <div className="project-column">
-        <ProjectCard name="Travel Agency" img={travelImg} path= "/travelagency" />
+        <ProjectCard name="Travel Agency" img={travelImg} path= "https://horizon-voyages-mu.vercel.app" />
         <ProjectCard name="Memory Game" img={memoryImg} path = "/memorygame" />
         <ProjectCard name="Ecommerce" img={ecommerceImg} path = "/ecommerce" />
         <ProjectCard name="Analytics" img={analyticsImg} path= "/analytics"/>
